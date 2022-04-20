@@ -2,7 +2,7 @@
 
 ***
 
-#### 简介
+#### info
 
 - 需要渲染的字符串 `The next F1 race will be in {{ city }} on {{ date }}.`
 - 给定的变量值 `['city' => 'Melbourne', 'date' => '2022-04-08']`
@@ -10,7 +10,7 @@
 
 ***    
 
-#### 运行
+#### run
 
 `php /... you path .../string-interpolation/index.php`
 
@@ -18,6 +18,6 @@
 
 ***
 
-#### 环境
+#### env
 
 - PHP > 7.4
